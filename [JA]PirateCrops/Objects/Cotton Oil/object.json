@@ -1,0 +1,10 @@
+{
+  "Name": "Cotton Oil",
+  "Description": "cotton oil good for cooking and to pacify the body",
+  "Category": "Cooking",
+  "CategoryTextOverride": "spice",
+  "Edibility": -300,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+}

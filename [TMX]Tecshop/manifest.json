@@ -1,0 +1,17 @@
+{
+  "Name": "[TMX] Tecshop",
+  "Author": "Alan",
+  "Version": "0.0.1",
+  "Description": "machine and technology store",
+  "UniqueID": "Alan.TMX.Tecshop",
+  "MinimumApiVersion": "2.0",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.6.4"
+  },
+    	"Dependencies": [
+		{
+			"UniqueID": "Alan.CP.Tecshop"
+		}
+	]
+}

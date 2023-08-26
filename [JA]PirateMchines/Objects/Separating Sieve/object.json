@@ -1,0 +1,13 @@
+{
+    "Name": "Separating Sieve",
+    "Description": "serves to separate ores and minerals and stone",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 0,
+    "CanSell" : false,
+    "IsColored": false,
+    "Recipe": null,
+    "DescriptionLocalization":{
+        "pt": "serve para separar minérios e minerais e pedra"
+      }
+  }

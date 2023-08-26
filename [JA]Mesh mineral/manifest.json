@@ -1,0 +1,12 @@
+{
+  "Name":"[JA]Mesh mineral",   
+  "Author":"Alan",
+  "Description":"Take your mining adventure a step further with the Automated Screening Machine Mod! This revolutionary mod introduces an exciting new way to process raw ores. Goodbye to the days of manually sifting ores for your precious resources. With this automated machine, you will be able to maximize the efficiency of your mining operation.",
+  "Version": "0.0.1",
+  "MinimumApiVersion":"3.8.0",
+  "UniqueID":"Alan.JA.Meshmineral",
+  "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}

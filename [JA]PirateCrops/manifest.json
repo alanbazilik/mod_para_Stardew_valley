@@ -1,0 +1,10 @@
+{
+    "Name" : "[JA]PIrateCrops",
+    "Author" : "Piratasnp",
+    "Description" : "Year-round crops and fruit trees in Stardew Valley.",
+    "Version" : "0.0.1",
+    "UniqueID" : "Piratasnp.evergreenCrops",
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}

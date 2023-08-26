@@ -1,0 +1,10 @@
+{
+    "Name" : "[JA]PirateMchines",
+    "Author" : "Piratasnp",
+    "Description" : "different machines for everything",
+    "Version" : "0.0.1",
+    "UniqueID" : "Piratasnp.JA.PirateMchines",
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}

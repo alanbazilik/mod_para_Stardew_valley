@@ -1,0 +1,12 @@
+{
+  "Name": "Cotton",
+  "Description": "natural fibers used to create yarn",
+  "Category": "Flower",
+  "Edibility": -300,
+  "Price": 40,
+  "IsColored": false,
+  "Recipe": null,
+  "DescriptionLocalization":{
+    "pt": "fibras natural que serve pra criar fios"
+  }
+}

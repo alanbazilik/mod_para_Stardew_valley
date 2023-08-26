@@ -1,0 +1,22 @@
+{
+    "Shops": [
+        {
+            "ShopName": "tecshop",
+            "ItemStocks": [
+                {
+                    "ItemType": "BigCraftable",
+                    "isRecipe": "False",
+                    "StockPrice": 500,
+                    "ItemNames": [
+                        "Sieve Builder"
+                    ],
+                    
+                },                
+            ],
+            "When": [
+                "t 900 1600"
+            ],
+            "ClosedMessage": "Aguarde o NPC estar atrass do balcao para abrir a loja."
+        }
+    ]
+}

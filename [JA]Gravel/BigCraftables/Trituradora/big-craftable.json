@@ -1,0 +1,34 @@
+{
+    "Name": "Automated stone crushing",
+    "Description" : "Gravel: The result of crushing the stones is the (gravel), which consists of smaller pieces of rock. Gravel is often used for a variety of purposes, such as construction, landscaping, or further processing.",
+    "Price" : 1,
+    "ProvidesLight" :false,
+    "Recipe" : {
+      "ResultCount" :1,
+      "Ingredients" :[
+        {
+           "Object" : 334,
+           "Count" : 6,
+        },
+        {
+            "Object" : "Separating Sieve",
+            "Count" : 1,
+        },
+        {
+            "Object" : 709,
+            "Count" : 10,
+        },
+      ],
+      "CanPurchase" : false,
+      "IsDefault" : false,
+      "SkillUnlockName" : "Mining",
+      "SkillUnlockLevel" : 2,
+    },
+    "NameLocalization" :{
+        "pt" : "Esmagamento automatizada de pedras",
+    },
+    "DescriptionLocalization" :{
+        "pt" : "Cascalho: O resultado da britagem das pedras é o (cascalho), que consiste em pedaços menores de rocha. A cascalho é frequentemente usada para uma variedade de finalidades, como construção, paisagismo ou processamento posterior.", 
+    },
+    "ReserveExtraIndexCount" : 7,
+}

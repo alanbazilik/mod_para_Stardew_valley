@@ -1,0 +1,17 @@
+[
+    {
+        "ProducerName": "Sieve Builder",
+        "InputIdentifier": "Line",
+        "InputStack": 5,
+        "MinutesUntilReady": 300,
+        "OutputIdentifier":"Separating Sieve",
+        "Sounds": ["bubbles"],
+        "FuelIdentifier" : "709",
+        "FuelStack" : 4,
+        "AdditionalFuel" :{
+            "Cotton Oil" : 1,
+            "787" : 2,
+        },
+        
+    },
+] 

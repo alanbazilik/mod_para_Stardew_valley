@@ -1,0 +1,9 @@
+{
+  "addMaps": [
+    {
+      "name": "tecshop",
+	  "addLocation": true,
+      "file": "assets/tecshop.tbin",
+    },
+  ]
+}

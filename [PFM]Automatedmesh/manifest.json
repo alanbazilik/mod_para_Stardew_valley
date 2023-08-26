@@ -1,0 +1,13 @@
+{
+  "Name": "[PFM] Automated Mesh",
+  "Author": "Alan",
+  "Version": "0.0.1",
+  "Description": "Automated Mineral Mesh Machine.",
+  "UniqueID": "Alan.PFM.AutomatedMesh",
+  "MinimumApiVersion": "3.0.0",
+
+  "ContentPackFor":
+  {
+      "UniqueID": "DIGUS.ProducerFrameworkMod"
+  },
+}

@@ -1,0 +1,13 @@
+{
+    "Name": "[STF]tecshop",
+    "Author": "alichan",
+    "Version": "0.1",
+    "Description": "Pelican City Machine Store..",
+    "UniqueID": "alichan.STF.tecshop",
+    "MinimumApiVersion": "3.4.0",
+    
+    "ContentPackFor": {
+        "UniqueID": "Cherry.ShopTileFramework",
+        "MinimumVersion": "1.0.5"
+    }
+}

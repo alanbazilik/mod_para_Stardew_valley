@@ -1,0 +1,109 @@
+[
+  {
+      "ProducerName": "Automated Mesh",
+      "InputIdentifier": "390",
+      "InputStack": 5,
+      "FuelIdentifier": "382",
+      "FuelStack": 3,
+      "AdditionalFuel" :{
+        "Cotton Oil" : 1,
+    },
+      "MinutesUntilReady": 40,
+      "OutputIdentifier": "Copper Ore",
+      "OutputStack": 9,
+      "AdditionalOutputs":[
+        {
+        "OutputProbability": 0.2,
+        "OutputIdentifier": "Iron Ore",
+        "MinutesUntilReady": 60,
+        "OutputStack": 3,
+        },
+        {
+          "OutputProbability": 0.4,
+          "OutputIdentifier": "Quartz",
+          "MinutesUntilReady": 80,
+          "OutputStack": 4,
+        },
+        {
+          "OutputProbability": 0.1,
+          "OutputIdentifier": "Geode",
+          "MinutesUntilReady": 80,
+          "OutputStack": 1,
+        },
+        {
+          "OutputProbability": 0.1,
+          "OutputIdentifier": "Coal",
+          "MinutesUntilReady": 80,
+          "OutputStack": 10,
+        },
+        {
+          "OutputProbability": 0.1,
+          "OutputIdentifier": "Gold Ore",
+          "MinutesUntilReady": 80,
+          "OutputStack": 5,
+        },
+        {
+          "OutputProbability": 0.1,
+          "OutputIdentifier": "Iridium Ore",
+          "MinutesUntilReady": 80,
+          "OutputStack": 2,
+        },
+        {
+          "OutputProbability": 0.1,
+          "OutputIdentifier": "Radioactive Ore",
+          "MinutesUntilReady": 80,
+          "OutputStack": 1,
+        },
+        {
+          "OutputProbability": 0.5,
+          "OutputIdentifier": "Frozen Geode",
+          "MinutesUntilReady": 80,
+          "OutputStack": 1,
+        },
+        {
+          "OutputProbability": 0.3,
+          "OutputIdentifier": "Magma Geode",
+          "MinutesUntilReady": 80,
+          "OutputStack": 1,
+        },
+        {
+          "OutputProbability": 0.6,
+          "OutputIdentifier": "Alamite",
+          "MinutesUntilReady": 80,
+          "OutputStack": 2,
+        },
+        {
+          "OutputProbability": 0.7,
+          "OutputIdentifier": "Bixite",
+          "MinutesUntilReady": 80,
+          "OutputStack": 1,
+        },
+        {
+          "OutputProbability": 0.5,
+          "OutputIdentifier": "Baryte",
+          "MinutesUntilReady": 80,
+          "OutputStack": 3,
+        },
+        {
+          "OutputProbability": 0.4,
+          "OutputIdentifier": "Aerinite",
+          "MinutesUntilReady": 80,
+          "OutputStack": 2,
+        },
+        {
+          "OutputProbability": 0.4,
+          "OutputIdentifier": "Calcite",
+          "MinutesUntilReady": 80,
+          "OutputStack": 4,
+        },
+        {
+          "OutputProbability": 0.4,
+          "OutputIdentifier": "Dolomite",
+          "MinutesUntilReady": 80,
+          "OutputStack": 3,
+        }
+      ],
+      "Sounds": ["furnace"],
+      
+  },
+]

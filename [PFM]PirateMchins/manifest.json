@@ -1,0 +1,13 @@
+{
+    "Name": "[PFM]PirateMchins",
+    "Author": "piratesnp",
+    "Version": "0.0.1",
+    "Description": "different machines for everything",
+    "UniqueID": "piratesnp.PFM.PirateMchins",
+    "MinimumApiVersion": "3.0.0",
+
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    },
+}

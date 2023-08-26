@@ -1,0 +1,34 @@
+{
+    "Name": "Automated Mesh",
+    "Description" : "Automated Mineral Mesh Machine.",
+    "Price" : 1,
+    "ProvidesLight" :false,
+    "Recipe" : {
+      "ResultCount" :1,
+      "Ingredients" :[
+        {
+           "Object" : 334,
+           "Count" : 6,
+        },
+        {
+            "Object" : "Separating Sieve",
+            "Count" : 1,
+        },
+        {
+            "Object" : 709,
+            "Count" : 10,
+        },
+      ],
+      "CanPurchase" : false,
+      "IsDefault" : false,
+      "SkillUnlockName" : "Mining",
+      "SkillUnlockLevel" : 2,
+    },
+    "NameLocalization" :{
+        "pt" : "Malha Automatizada",
+    },
+    "DescriptionLocalization" :{
+        "pt" : "Máquina automatizada de malha mineral.", 
+    },
+    "ReserveExtraIndexCount" : 7,
+}

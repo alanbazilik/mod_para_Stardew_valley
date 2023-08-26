@@ -1,0 +1,12 @@
+{
+  "Name": "Line",
+  "Description": "natural fibers used to create yarn",
+  "Category" : "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 100,
+  "IsColored": false,
+  "Recipe": null,
+  "DescriptionLocalization":{
+    "pt": "Otimo pra custura"
+  }
+}

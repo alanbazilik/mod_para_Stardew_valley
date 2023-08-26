@@ -1,0 +1,16 @@
+{
+    "Name": "Cotton",
+    "Product": "Cotton",
+    "SeedName": "Cotton Seeds",
+    "SeedDescription": "Plant in the summer to harvest in the fall and winter. Takes 25 days to mature",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer", "fall", "winter"],
+    "Phases": [ 6, 6, 6, 7, 5 ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": true,
+    "TrellisCrop": false,
+    "Colors": null,
+    "SeedPurchasePrice": 50,
+"SeedPurchaseRequirements": null
+}

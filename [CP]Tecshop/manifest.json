@@ -1,0 +1,10 @@
+{
+  "Name":"Tecshop",
+  "Author":"Alan",
+  "Description":"machine and technology store",
+  "Version": "0.0.1",
+  "UniqueID":"Alan.CP.Tecshop",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+}
+}

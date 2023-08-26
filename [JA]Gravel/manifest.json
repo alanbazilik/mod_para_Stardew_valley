@@ -1,0 +1,10 @@
+{
+  "Name" : "[JA]Gravel",
+  "Author" : "Alan",
+  "Description" : "Gravel: The result of crushing the stones is the (gravel), which consists of smaller pieces of rock. Gravel is often used for a variety of purposes, such as construction, landscaping, or further processing.",
+  "Version" : "0.0.1",
+  "UniqueID" : "Alan.Gravel",
+  "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+  }
+}
