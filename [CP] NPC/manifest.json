@@ -1,0 +1,10 @@
+{
+    "Name": "[CP] NPC",
+    "Author": "alichan",
+    "Description": "Adds NPCs to Tec Shop",
+    "Version": "0.0.1",
+    "UniqueID": "alichan.CP.NPC",
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

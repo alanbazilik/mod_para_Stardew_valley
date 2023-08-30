@@ -14,9 +14,9 @@
                 },                
             ],
             "When": [
-                "t 900 1600"
+                "NPCAt Kya 5 5"
             ],
-            "ClosedMessage": "Aguarde o NPC estar atrass do balcao para abrir a loja."
+            "ClosedMessage": "Aguarde a Kya estar atras do balcao para abrir a loja."
         }
     ]
 }

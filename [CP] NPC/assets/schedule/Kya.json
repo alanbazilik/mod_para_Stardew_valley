@@ -1,0 +1,10 @@
+{
+    "rain": "600 tecshopBackDoor 2 5 1/900 tecshop 5 5/1600 tecshopBackDoor 2 5 1",
+    "Mon": "600 tecshopBackDoor 2 5 1/900 tecshop 5 5/1600 Town 44 78 2/1800 Saloon 35 18 0/2000 tecshop 10 4 0/2100 tecshopBackDoor 2 5 1",
+    "Tue": "600 tecshopBackDoor 2 5 1/900 tecshop 5 5/1600 tecshopBackDoor 2 5 1/1800 Saloon 35 18 0/2100 tecshop 10 4 0/2100 tecshopBackDoor 2 5 1",
+    "Wed": "600 tecshopBackDoor 2 5 1/900 tecshop 5 5/1600 tecshopBackDoor 2 5 1/1800 Saloon 35 18 0/2100 tecshop 10 4 0/2200 tecshopBackDoor 2 5 1",
+    "Thu": "600 tecshopBackDoor 2 5 1/900 tecshop 5 5/1600 tecshopBackDoor 2 5 1/1800 Saloon 35 18 0/2100 tecshop 10 4 0/2200 tecshopBackDoor 2 5 1",
+    "Fri": "600 tecshopBackDoor 2 5 1/900 tecshop 5 5/1600 tecshopBackDoor 2 5 1/1800 Saloon 35 18 0/2100 tecshop 10 4 0/2200 tecshopBackDoor 2 5 1",
+    "Sat": "600 tecshopBackDoor 2 5 1/1100 Town 27 100 2/1800 Saloon 35 18 0/2100 tecshop 10 4 0/2200 tecshopBackDoor 2 5 1",
+    "Sun": "600 tecshopBackDoor 2 5 1/900 tecshop 5 5/1600 tecshopBackDoor 2 5 1/1800 Saloon 35 18 0/2100 tecshop 10 4 0/2200 tecshopBackDoor 2 5 1"
+}

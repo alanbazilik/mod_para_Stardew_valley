@@ -7,22 +7,22 @@
       "ResultCount" :1,
       "Ingredients" :[
         {
-           "Object" : 334,
+           "Object" : 335,
            "Count" : 6,
         },
         {
-            "Object" : "Separating Sieve",
-            "Count" : 1,
+            "Object" : 334,
+            "Count" : 3,
         },
         {
-            "Object" : 709,
-            "Count" : 10,
+            "Object" : 338,
+            "Count" : 2,
         },
       ],
       "CanPurchase" : false,
       "IsDefault" : false,
       "SkillUnlockName" : "Mining",
-      "SkillUnlockLevel" : 2,
+      "SkillUnlockLevel" : 1,
     },
     "NameLocalization" :{
         "pt" : "Esmagamento automatizada de pedras",

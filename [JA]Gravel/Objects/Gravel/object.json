@@ -1,0 +1,15 @@
+{
+  "Name": "Gravel",
+  "Description": "
+  Gravel is a collection of small stones and mineral fragments that come together to form a rustic and natural texture. With a variety of colors, sizes, and shapes, gravel creates a visually interesting setting, adding a touch of ruggedness to any environment. Its versatility allows for a wide range of applications, from paving roads and pathways to decorating gardens and outdoor areas. The rough texture and natural appearance of gravel not only complement natural elements like plants and trees, but also provide a resilient and durable surface when used in construction projects.",
+  "Category": "Minerals",
+  "Edibility": -300,
+  "Price": 10,
+  "CanSell" : true,
+  "IsColored": false,
+  "Recipe": null,
+  "DescriptionLocalization":{
+      "pt": "
+      Cascalho é uma coleção de pequenas pedras e fragmentos minerais que juntos formam uma textura rústica e natural. Com uma variedade de cores, tamanhos e formas, o cascalho cria um cenário visualmente interessante, adicionando um toque de rusticidade a qualquer ambiente. Sua versatilidade permite seu uso em uma ampla gama de aplicações, desde a pavimentação de estradas e caminhos até a decoração de jardins e áreas ao ar livre. A textura áspera e a aparência natural do cascalho não apenas complementam elementos naturais, como plantas e árvores, mas também proporcionam uma superfície resistente e durável quando usado em projetos de construção."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "Format": "1.5",
+    "Changes": [
+      {
+        "LogName": "Kya Sprites", 
+        "Action": "Load",
+        "Target": "Characters/Kya",
+        "FromFile": "assets/spritesheets/Kya.png",
+      },
+      {
+        "LogName": "Kya Portraits",
+        "Action": "Load",
+        "Target": "Portraits/Kya",
+        "FromFile": "assets/portraits/Kya.png",
+      },
+      {
+        "LogName": "Kya Dialogue",
+        "Action": "Load",
+        "Target": "Characters/Dialogue/Kya",
+        "FromFile": "assets/dialogue/Kya.json",
+      },
+      
+      {
+        "LogName": "Schedule",
+        "Action": "Load",
+        "Target": "Characters/schedules/Kya",
+        "FromFile": "assets/schedule/Kya.json",
+      },
+      {
+        "LogName": "NPC Dispositions",
+        "Action": "EditData",
+        "Target": "Data/NPCDispositions",
+        "Entries": {
+          "Kya": "adult/rude/neutral/positive/female/datable//Town/summer 7//tecshopBackDoor 2 5/Kya"
+        },
+      },
+      {
+        "LogName": "Gift tastes",
+        "Action": "EditData",
+        "Target": "Data/NPCGiftTastes",
+        "Entries": {
+          "Kya": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/ ",
+        },
+      },
+    ]
+  }
