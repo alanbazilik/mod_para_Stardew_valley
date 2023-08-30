@@ -5,10 +5,11 @@
 	  "addLocation": true,
       "file": "assets/tecshop.tbin",
     },
+    
     {
-      "name": "tecshopBackDoor",
+      "name": "techouse",
 	    "addLocation": true,
-      "file": "assets/tecshopBackDoor.tbin",
+      "file": "assets/techouse.tbin",
     },
   ]
 }
