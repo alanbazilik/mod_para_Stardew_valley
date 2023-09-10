@@ -14,9 +14,11 @@
                 },                
             ],
             "When": [
-                "NPCAt Kya 5 5"
+                "NPCAt Kya 5 5",
+                "NPCAt Alan 5 5",
+                "NPCAt Pirate 5 5"
             ],
-            "ClosedMessage": "Aguarde a Kya estar atras do balcao para abrir a loja."
+            "ClosedMessage": "Aguarde o atendente estar atras do balcao para abrir a loja."
         }
     ]
 }

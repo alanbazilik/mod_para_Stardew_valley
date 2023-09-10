@@ -31,7 +31,7 @@
         "Action": "EditData",
         "Target": "Data/NPCDispositions",
         "Entries": {
-          "Kya": "adult/rude/neutral/positive/female/datable//Town/summer 7//techouse 2 4/Kya"
+          "Kya": "adult/neutral/shy/positive/female/datable/Leah/Town/fall 15/Pirata 'colleague' Alan 'colleague'/techouse 2 4/Kya"
         },
       },
       {
@@ -42,5 +42,103 @@
           "Kya": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/ ",
         },
       },
+
+      {
+        //Kya's Animations
+        "Action": "EditData",
+        "Target": "Data/animationdescriptions",
+        "Entries": {
+          "Kya_Smoking": "17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19/17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19/17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19/17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19/17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19",
+          "Kya_Smoking2": "21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23/21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23/21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23/21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23/21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23",
+
+        }
+      },
+
+      {
+        "LogName": "Alan Sprites", 
+        "Action": "Load",
+        "Target": "Characters/Alan",
+        "FromFile": "assets/spritesheets/Alan.png",
+      },
+      {
+        "LogName": "Alan Portraits",
+        "Action": "Load",
+        "Target": "Portraits/Alan",
+        "FromFile": "assets/portraits/Alan.png",
+      },
+      {
+        "LogName": "Alan Dialogue",
+        "Action": "Load",
+        "Target": "Characters/Dialogue/Alan",
+        "FromFile": "assets/dialogue/Alan.json",
+      },
+      
+      {
+        "LogName": "Schedule",
+        "Action": "Load",
+        "Target": "Characters/schedules/Alan",
+        "FromFile": "assets/schedule/Alan.json",
+      },
+      {
+        "LogName": "NPC Dispositions",
+        "Action": "EditData",
+        "Target": "Data/NPCDispositions",
+        "Entries": {
+          "Alan": "adult/rude/neutral/positive/female/datable//Town/summer 7//techouse 17 4/Alan"
+        },
+      },
+      {
+        "LogName": "Gift tastes",
+        "Action": "EditData",
+        "Target": "Data/NPCGiftTastes",
+        "Entries": {
+          "Alan": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/ ",
+        },
+      },
+
+      {
+        "LogName": "Pirate Sprites", 
+        "Action": "Load",
+        "Target": "Characters/Pirate",
+        "FromFile": "assets/spritesheets/Pirate.png",
+      },
+      {
+        "LogName": "Pirate Portraits",
+        "Action": "Load",
+        "Target": "Portraits/Pirate",
+        "FromFile": "assets/portraits/Pirate.png",
+      },
+      {
+        "LogName": "Pirate Dialogue",
+        "Action": "Load",
+        "Target": "Characters/Dialogue/Pirate",
+        "FromFile": "assets/dialogue/Pirate.json",
+      },
+      
+      {
+        "LogName": "Schedule",
+        "Action": "Load",
+        "Target": "Characters/schedules/Pirate",
+        "FromFile": "assets/schedule/Pirate.json",
+      },
+      {
+        "LogName": "NPC Dispositions",
+        "Action": "EditData",
+        "Target": "Data/NPCDispositions",
+        "Entries": {
+          "Pirate": "adult/rude/neutral/positive/female/datable//Town/summer 7//techouse 21 4/Pirate"
+        },
+      },
+      {
+        "LogName": "Gift tastes",
+        "Action": "EditData",
+        "Target": "Data/NPCGiftTastes",
+        "Entries": {
+          "Pirate": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/ ",
+        },
+      },
+
+
+      
     ]
   }

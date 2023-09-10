@@ -5,12 +5,8 @@
       "Action":"Load",
       "Target":"Maps/Town",
       "FromFile":"assets/Town.tbin"
-    },
-    {
-      "Action":"Append",
-      "Target":"Maps/Town",
-      "FromFile":"assets/Tec-shop.png"
-    } 
+    },   
+    
   ],
   
 }
