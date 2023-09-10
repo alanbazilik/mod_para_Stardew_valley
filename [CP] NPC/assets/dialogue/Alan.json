@@ -1,19 +1,37 @@
 {
-    "Introduction": "Ola  Meu nome é Alan! Prazer em te conhecer. Sim, estou cuidando daquela velha fazenda, e realmente poderia usar algumas máquinas para melhorar a produção.",
-    "danceRejection": "Não... Há alguém mais com quem eu quero dançar.",
-    "divorced": "Por que você continua me incomodando? Estou tentando te esquecer.",
-    "Resort": "A praia é bonita, mas eu não gosto das multidões.",
-    "secondChance_Guys": "Vamos conversar sobre suas metas e como podemos trabalhar juntos para dar a você uma segunda chance.",
-    "breakUp": "Está bem... $s#$b#I Acho que vou te ver por aí, então...", 
-
-    "tecshop_5_5": "Bom dia Sr @. Em que podemos lhe ajudar?/Bom dia, temos as melhores máquinas aqui, Seja bem-vindo.",
-    "tecshop_Mon": "Hoje, vou entrar em contato com alguns fornecedores para encontrar a melhor opção de máquinas para nosso projeto.",
-    "tecshop_Tue": "visitei uma exposição de máquinas industriais e fiz algumas cotações.",
-    "tecshop_Wed": "Quarta-feira foi movimentada. Fechei o negócio com um fornecedor e comprei as máquinas necessárias.",
-    "tecshop_Thu": "Na quinta-feira, organizei a logística de entrega das máquinas e comecei a planejar a instalação.",
-    "tecshop_Fri": " Na sexta-feira, as máquinas foram entregues e começamos a montagem delas em nossa fábrica.",
-    "tecshop_Sat": "No sábado, trabalhei na configuração das máquinas e treinei a equipe para usá-las eficazmente.",
-    "Sun": "Eu estou de ferias"
+    "Introduction": "Olá! Meu nome é Alan! Prazer em te conhecer. Ah, você está cuidando daquela velha fazenda, e realmente poderia usar algumas máquinas para melhorar a produção.",
     
+    "danceRejection": "Desculpe, não estou muito no clima para dançar agora. Talvez outro dia?",
+    
+    "divorced": "A vida às vezes nos leva por caminhos diferentes. Eu também já passei por um divórcio. É importante seguir em frente e buscar o que te faz feliz.",
+    
+    "Resort": "No resort, você pode encontrar algumas tecnologias interessantes, mas nada se compara às máquinas que temos na Techop. Se precisar de algo, é só dar um toque.",
+    
+    "secondChance_Guys": "Todo mundo merece uma segunda chance, não é? Às vezes, as pessoas mudam e crescem. É bom ver você dando uma oportunidade a alguém.",
+    
+    "breakUp": "Relacionamentos podem ser complicados, mas é importante manter boas amizades. Se precisar de alguém para conversar, estou aqui para você.",
+    
+    
+    "tecshop_5_5": "Bom dia Sr @. Em que podemos lhe ajudar?/Bom dia, temos as melhores máquinas aqui. Seja bem-vindo.",
+    
+    "tecshop_Mon": "Hoje, estou cuidando dos negócios da Techop. Se precisar de alguma máquina para melhorar a sua fazenda, você sabe onde me encontrar.",
+    
+    "tecshop_Tue": "Como posso ajudar você hoje? Temos máquinas de alta qualidade para sua fazenda.",
+    
+    "tecshop_Wed": "A tecnologia pode fazer maravilhas em sua fazenda, acredite em mim.",
+    
+    "tecshop_Thu": "É um ótimo dia para pensar em melhorias. Estou aqui para aconselhar sobre as máquinas certas.",
+    
+    "tecshop_Fri": "Quase lá! Vamos tornar sua fazenda mais eficiente juntos.",
+    
+    "tecshop_Sat": "Um bom dia para relaxar e planejar. Se precisar de alguma ideia para sua fazenda, estou à disposição.",
+    
+    "Mon": "E aí, como foi o seu fim de semana? Eu passei o meu jogando aquele novo RPG que lançaram. Foi épico!",
+    "Tue": "Ei, você viu o trailer do próximo filme de super-herói que vai sair? Mal posso esperar para assistir!",
+    "Wed": "Estava pensando em organizar um torneio de jogos de tabuleiro no próximo fim de semana. Você toparia participar?",
+    "Thu": "Hoje é dia de retrogames! Vou ligar meu console antigo à noite e relembrar os velhos tempos.",
+    "Fri": "Finalmente é sexta-feira! O trabalho amanhã não importa, vamos nos divertir à noite!",
+    "Sat": "Trabalhei o dia todo hoje, então estou exausto. Vamos combinar algo para amanhã, meu dia de folga?",
+    "Sun": "Hoje é domingo, um dia que às vezes acaba sendo de trabalho extra para mim. Mas se tivermos a chance de nos encontrar mais tarde, poderíamos jogar videogame. O que acha?"
+  }
   
-}

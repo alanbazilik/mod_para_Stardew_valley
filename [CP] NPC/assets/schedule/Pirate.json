@@ -6,5 +6,11 @@
     "Thu": "610 techouse 21 4 1/900 tecshop 1 10/1100 tecshop 5 5/1400 techouse 29 9/1600 techouse 21 4 1",
     "Fri": "610 techouse 21 4 1/900 tecshop 5 5/1100 techouse 27 9/1300 tecshop 1 10/1400 tecshop 5 5/1600 techouse 21 4 1",
     "Sat": "610 techouse 21 4 1/1230 techouse 26 10/1600 techouse 21 4 1",
-    "Sun": "610 techouse 21 4 1/900 tecshop 5 5/1100 techouse 27 9/1300 tecshop 1 10/1400 tecshop 5 5/1600 techouse 21 4 1"
+    "Sun": "610 techouse 21 4 1/900 tecshop 5 5/1100 techouse 27 9/1300 tecshop 1 10/1400 tecshop 5 5/1600 techouse 21 4 1",
+    "marriage_Mon": "700 BusStop 1 23/720 Town 27 54/900 tecshop 1 10/1100 tecshop 5 5/1400 techouse 29 9/1600 Town 27 54/1620 BusStop -1 23 3",
+    "marriage_Tue": "700 BusStop 1 23/720 Town 27 54/900 tecshop 5 5/1100 techouse 27 9/1300 tecshop 1 10/1600 Town 27 54/1620 BusStop -1 23 3",
+    "marriage_Wed": "700 BusStop 1 23/720 Town 27 54/900 tecshop 1 8/1230 techouse 26 10/1430 tecshop 5 5/1600 Town 27 54/1620 BusStop -1 23 3",
+    "marriage_Thu": "700 BusStop 1 23/720 Town 27 54/900 tecshop 1 10/1100 tecshop 5 5/1400 techouse 29 9/1600 Town 27 54/1620 BusStop -1 23 3",
+    "marriage_Fri": "700 BusStop 1 23/720 Town 27 54/900 tecshop 5 5/1100 techouse 27 9/1300 tecshop 1 10/1400 tecshop 5 5/1600 Town 27 54/1620 BusStop -1 23 3",
+    "marriage_Sun": "700 BusStop 1 23/720 Town 27 54/900 tecshop 5 5/1100 techouse 27 9/1300 tecshop 1 10/1400 tecshop 5 5/1600 Town 27 54/1620 BusStop -1 23 3"
 }

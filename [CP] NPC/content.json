@@ -44,7 +44,6 @@
       },
 
       {
-        //Kya's Animations
         "Action": "EditData",
         "Target": "Data/animationdescriptions",
         "Entries": {
@@ -71,6 +70,14 @@
         "Action": "Load",
         "Target": "Characters/Dialogue/Alan",
         "FromFile": "assets/dialogue/Alan.json",
+      },
+
+      {
+        "Action": "EditData",
+        "Target": "Characters/Dialogue/rainy",
+        "Entries": {
+          "Alan": "Parece que a chuva resolveu dar as caras hoje. Na Techop, estamos sempre prontos para trabalhar, mesmo nos dias chuvosos. Às vezes, essas surpresas climáticas nos mantêm ocupados, mas faz parte do negócio. Se precisar de alguma máquina ou conselho para lidar com a chuva na sua fazenda, é só me procurar. Estou aqui para ajudar, seja em dias de folga ou não.",
+        }
       },
       
       {
